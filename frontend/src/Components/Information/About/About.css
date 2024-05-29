@@ -1,0 +1,17 @@
+.social-icon {
+    size: 5x;
+    color: white;
+}
+.social-icon:hover{
+    color: #ff3333;
+    size: 5x;
+}
+
+b {
+    color: red;
+    font-weight: bold;
+}
+    
+.justify {
+    text-align: justify;
+}

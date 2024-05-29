@@ -1,0 +1,43 @@
+.NavBar {
+    background: linear-gradient(88deg, #212121, #000000);
+    background-size: 400% 400%;
+ 
+
+    -webkit-animation: AnimationName 10s ease infinite;
+
+    -moz-animation: AnimationName 10s ease infinite;
+    animation: AnimationName 10s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 35%}
+    50%{background-position:100% 66%}
+    100%{background-position:0% 35%}
+}
+
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 35%}
+    50%{background-position:100% 66%}
+    100%{background-position:0% 35%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 35%}
+    50%{background-position:100% 66%}
+    100%{background-position:0% 35%}
+}
+
+.searchModal .modal-content{
+    background-color: #A02626;
+    color: white;
+}
+
+.dropdown-menu.show { 
+    background-color: #A02626; 
+}
+
+a.dropdown-item { 
+    color: white; 
+}
+.nav-links:hover {
+  color: red;
+}

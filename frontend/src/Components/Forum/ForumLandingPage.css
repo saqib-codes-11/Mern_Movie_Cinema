@@ -1,0 +1,40 @@
+.lead{
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+h1.landing-text {
+        color: white;
+        font-size: 500%;
+        font-weight: 700;
+        justify-content: center;
+}
+
+.bgBlur{
+    background:transparent !important;
+    backdrop-filter: blur(5px);
+}
+
+.cardHoverZoom:hover {
+  transform: scale(1.1);
+}
+
+.cardHoverZoom {
+  transition: transform 0.2s ease;
+}
+
+.cardCommentMovieTitle {
+    text-align: left;
+}
+
+.cardComementMovieText {
+    text-align: left;
+}
+
+.commentModal .modal-content{
+    background-color: #A02626;
+    color: white;
+}

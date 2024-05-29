@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Directions snapshot test Should match the snapshot 1`] = `
+<div
+  class="background"
+>
+  <div
+    className="bgBlur jumbotron"
+  >
+    <div
+      className="text-white container"
+    >
+      <h1
+        class="landing-text"
+      >
+         Contact Us 
+      </h1>
+      <div
+        className="container"
+      >
+        <form
+          className="rounded"
+          noValidate={true}
+          onSubmit={[Function]}
+          style={
+            Object {
+              "backgroundColor": "#A02626",
+            }
+          }
+        >
+          <div
+            className="mb-3 padd-1 form-group row"
+          >
+            <label
+              className="text-right pr-4 mt-3 form-label"
+              md={2}
+              sm={12}
+            >
+               Email address 
+            </label>
+            <input
+              className="mt-3 form-control"
+              id="email"
+              md={10}
+              name="email"
+              onChange={[Function]}
+              placeholder="name@example.com"
+              required={true}
+              sm={12}
+              type="email"
+              value=""
+            />
+          </div>
+          <div
+            className="mb-3 padd-1 form-group row"
+          >
+            <label
+              className="text-right form-label"
+              md={2}
+              sm={12}
+            >
+              Message Topic
+            </label>
+            <div
+              className="col-sm-10"
+            >
+              <select
+                className="form-control"
+                id="subject"
+                md={10}
+                name="subject"
+                onChange={[Function]}
+                required={true}
+                sm={12}
+                value="feedback"
+              >
+                <option
+                  value="feedback"
+                >
+                   Feedback 
+                </option>
+                <option
+                  value="booking"
+                >
+                   Venue Booking 
+                </option>
+                <option
+                  value="message"
+                >
+                   Other 
+                </option>
+              </select>
+            </div>
+          </div>
+          <div
+            className="mb-3 padd-1 form-group row"
+          >
+            <label
+              className="text-right pr-4 form-label"
+              md={2}
+              sm={12}
+            >
+               Your Message 
+            </label>
+            <textarea
+              className="form-control"
+              id="message"
+              md={10}
+              name="message"
+              onChange={[Function]}
+              placeholder="Leave a comment here"
+              required={true}
+              sm={12}
+              value=""
+            />
+          </div>
+          <button
+            className="btn btn-outline-dark btn-lg"
+            disabled={false}
+            id="submit"
+            type="submit"
+          >
+             Send 
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div
+    id="fixed"
+  />
+</div>
+`;

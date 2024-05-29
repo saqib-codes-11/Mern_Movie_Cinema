@@ -1,0 +1,42 @@
+.row {
+    padding: 8px;
+}
+
+.container input {
+  width: 95%;
+  clear: both;
+  margin-bottom: 4px;
+}
+
+.container .ticket-type{
+    margin: 5px;
+    width: 50px;
+}
+
+.background .container {
+    padding: 10px;
+}
+
+input:invalid+span:after {
+    content: '✖';
+    padding-left: 3px;
+}
+
+input:valid+span:after {
+    content: '✓';
+    padding-left: 3px;
+}
+
+form #submit {
+    margin: 3px;
+    margin-bottom: 8px;
+}
+
+input#email {
+    width:80%;
+}
+
+textarea#message {
+    width: 80%;
+    height: 250px;
+}

@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DirectionsCard component testing with props Should match the snapshot 1`] = `
+<div
+  className="p-2 col-lg-6 col-md-6 col-12"
+>
+  <div
+    className="bg-t card-body"
+  >
+    <div
+      className=" colorScheme c-w padd-1 card-title h5"
+      title="location title"
+    >
+      QA Cinema
+    </div>
+    <div
+      className="c-w min-h-70 padd-1 card-subtitle h6"
+      title="location address description"
+    >
+      3rd Floor, International House, 1 St Katharine's Way, London E1W 1UN
+    </div>
+    <p
+      className="padd-1 txt-area card-text"
+    >
+      <a
+        href="https://www.google.co.uk/maps/place/QA+Ltd./@51.507524,-0.0737885,19.79z/data=!3m1!5s0x487603555f190937:0x5ddb3b1b364ab175!4m8!1m2!2m1!1scar+park!3m4!1s0x487603544462f21d:0x60c3dd1ddc3bc0b7!8m2!3d51.5075167!4d-0.0738037"
+        title="directions map link"
+      >
+        <svg
+          aria-hidden="true"
+          className="svg-inline--fa fa-map-marked-alt fa-w-18 fa-4x social-icon padd-1"
+          color="#ff3333"
+          data-icon="map-marked-alt"
+          data-prefix="fas"
+          focusable="false"
+          role="img"
+          style={Object {}}
+          viewBox="0 0 576 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M288 0c-69.59 0-126 56.41-126 126 0 56.26 82.35 158.8 113.9 196.02 6.39 7.54 17.82 7.54 24.2 0C331.65 284.8 414 182.26 414 126 414 56.41 357.59 0 288 0zm0 168c-23.2 0-42-18.8-42-42s18.8-42 42-42 42 18.8 42 42-18.8 42-42 42zM20.12 215.95A32.006 32.006 0 0 0 0 245.66v250.32c0 11.32 11.43 19.06 21.94 14.86L160 448V214.92c-8.84-15.98-16.07-31.54-21.25-46.42L20.12 215.95zM288 359.67c-14.07 0-27.38-6.18-36.51-16.96-19.66-23.2-40.57-49.62-59.49-76.72v182l192 64V266c-18.92 27.09-39.82 53.52-59.49 76.72-9.13 10.77-22.44 16.95-36.51 16.95zm266.06-198.51L416 224v288l139.88-55.95A31.996 31.996 0 0 0 576 426.34V176.02c0-11.32-11.43-19.06-21.94-14.86z"
+            fill="currentColor"
+            style={Object {}}
+          />
+        </svg>
+      </a>
+      <p
+        className="txt-area"
+        title="directions map label"
+      >
+        Directions
+      </p>
+    </p>
+    <img
+      alt="cinema front entrance"
+      height="300px"
+      src="cinema_outside.jpeg"
+      style={
+        Object {
+          "objectFit": "cover",
+        }
+      }
+      width="100%"
+    />
+  </div>
+</div>
+`;

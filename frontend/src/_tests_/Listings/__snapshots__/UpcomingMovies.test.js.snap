@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Upcoming landing page testing should render forum landing page 1`] = `
+<div
+  class="background"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="bgBlur jumbotron"
+    >
+      <h1
+        className="landing-text"
+        style={
+          Object {
+            "fontSize": "400%",
+          }
+        }
+      >
+        Upcoming Movies
+      </h1>
+      <h3
+        className="lead"
+      >
+        Here are some of the movies that we will be showing in our cinema in the near future!
+      </h3>
+      <div>
+        <div
+          className="row"
+        >
+          <div
+            className="p-2 col-lg-4 col-md-6 col-12"
+          >
+            <div
+              className="card-wrapper"
+            >
+              <div
+                className="content"
+              >
+                <div
+                  className="face-front z-depth-2"
+                >
+                  <img
+                    alt="Fast and Furious 9"
+                    className="movieImage"
+                    src="https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@.jpg"
+                  />
+                </div>
+                <div
+                  className="face-back z-depth-2 colorScheme"
+                >
+                  <div
+                    className="card-body"
+                  >
+                    <div
+                      className="card-title h5"
+                    >
+                      Fast and Furious 9
+                    </div>
+                    <div
+                      className="card-title h5"
+                    >
+                      Directed by 
+                      Justin Lin
+                    </div>
+                    <br />
+                    <div
+                      className="card-subtitle h6"
+                    >
+                      Released in 
+                      2021
+                    </div>
+                    <a
+                      href="/upcoming/undefined"
+                      onClick={[Function]}
+                    >
+                      <button
+                        className="alignBottom btn btn-dark"
+                        disabled={false}
+                        type="button"
+                      >
+                        View more...
+                      </button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

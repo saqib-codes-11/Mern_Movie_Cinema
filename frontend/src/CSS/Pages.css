@@ -1,0 +1,159 @@
+ .background {
+    background-image: linear-gradient(rgba(0,0,0,0),hsl(0,0%,0%, 1)),url("../Images/Background.png");
+    background-color: #212121;
+    background-size: 50%;
+    height: 100%;
+ }
+
+ .imgDiv {
+    width: 700px;
+    height: 300px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle; 
+ }
+
+ .fullScreen {
+     min-height: 100vh;
+ }
+
+.colorScheme {
+    background-color: #A02626;
+}
+
+
+#movie-card {
+    width: 75%;
+    margin: auto;
+}
+
+.center {
+  padding: 70px 0;
+  text-align: center;
+}
+#tableBorder tr td {
+   border-top: 1px solid #A02626; /* Change the color you want to set */
+}
+
+#tableBorder tr th {
+   border-top: 1px solid #A02626; /* Change the color you want to set */
+}
+#name {
+    width: 100%;
+
+}
+
+h1.landing-text {
+    color: white;
+    font-size: 500%;
+    font-weight: 700;
+    -webkit-text-stroke: 2px black;
+    justify-content: center;
+    }
+
+h2.landing-text  {
+    color: white;
+    font-size: 300%;
+    font-weight: 700;
+    -webkit-text-stroke: 2px black;
+    justify-content: center;
+}
+
+h3.landing-text {
+        color:white;
+        text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    }
+
+    
+p {
+    color: black;
+        justify-content: center;
+
+}
+#fixed {
+        display: table;
+        height: 100%;
+        position: relative;
+        width: 100%;
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+
+.display-4, .lead{
+    
+    color: white;
+}
+
+p1 {
+    color: white;
+}
+p1:hover {
+    color: #dc3545;
+}
+
+.confirm {
+    margin: auto;
+    margin-bottom: 25px;
+    justify-content: center;
+    width: 75%;
+}
+
+.bgBlur{
+    background:transparent !important;
+    backdrop-filter: blur(3px);
+}
+
+.rounded {
+  padding: 10px;
+  border-radius: 50px;
+}
+.padd-1{
+    padding: 1rem;
+}
+.padd-3{
+    padding: 3rem;
+}
+.marg-1 {
+    margin: 1rem;
+}
+.marg-3 {
+    margin: 3rem;
+}
+.txt-area{
+    text-align: justify;
+    text-align:center;
+}
+.c-w{
+    color: white;
+}
+.c-g{
+    color: #212121;
+}
+.c-b{
+    color: black;
+}
+.c-r {
+    color: #A02626;
+}
+.bg-t{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.min-h {
+    min-height: 120px;
+}
+.min-h-70{
+    min-height:70px;
+}
+.min-w {
+    min-width: 100%;
+}
+.main-border {
+    border: 1px solid #A02626;
+}
+
+
+h2{
+    color: white;
+}

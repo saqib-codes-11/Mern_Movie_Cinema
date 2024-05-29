@@ -1,0 +1,29 @@
+
+.Footer {
+background: linear-gradient(88deg, #212121, #000000);
+  background-size: 400% 400%;
+  color: white;
+  height: auto;
+
+    -webkit-animation: AnimationName 10s ease infinite;
+
+    -moz-animation: AnimationName 10s ease infinite;
+    animation: AnimationName 10s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 35%}
+    50%{background-position:100% 66%}
+    100%{background-position:0% 35%}
+}
+
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 35%}
+    50%{background-position:100% 66%}
+    100%{background-position:0% 35%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 35%}
+    50%{background-position:100% 66%}
+    100%{background-position:0% 35%}
+}  

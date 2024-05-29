@@ -1,0 +1,344 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Directions snapshot test Should match the snapshot 1`] = `
+<div
+  class="background"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="bgBlur jumbotron"
+    >
+      <h1
+        class="landing-text"
+      >
+        Directions
+      </h1>
+      <div
+        className="row"
+      >
+        <div
+          className="p-2 col-lg-6 col-md-6 col-12"
+        >
+          <div
+            className="bg-t card-body"
+          >
+            <div
+              className=" colorScheme c-w padd-1 card-title h5"
+              title="location title"
+            >
+              QA Cinema
+            </div>
+            <div
+              className="c-w min-h-70 padd-1 card-subtitle h6"
+              title="location address description"
+            >
+              3rd Floor, International House, 1 St Katharine's Way, London E1W 1UN
+            </div>
+            <p
+              className="padd-1 txt-area card-text"
+            >
+              <a
+                href="https://www.google.co.uk/maps/place/QA+Ltd./@51.507524,-0.0737885,19.79z/data=!3m1!5s0x487603555f190937:0x5ddb3b1b364ab175!4m8!1m2!2m1!1scar+park!3m4!1s0x487603544462f21d:0x60c3dd1ddc3bc0b7!8m2!3d51.5075167!4d-0.0738037"
+                title="directions map link"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="svg-inline--fa fa-map-marked-alt fa-w-18 fa-4x social-icon padd-1"
+                  color="#ff3333"
+                  data-icon="map-marked-alt"
+                  data-prefix="fas"
+                  focusable="false"
+                  role="img"
+                  style={Object {}}
+                  viewBox="0 0 576 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M288 0c-69.59 0-126 56.41-126 126 0 56.26 82.35 158.8 113.9 196.02 6.39 7.54 17.82 7.54 24.2 0C331.65 284.8 414 182.26 414 126 414 56.41 357.59 0 288 0zm0 168c-23.2 0-42-18.8-42-42s18.8-42 42-42 42 18.8 42 42-18.8 42-42 42zM20.12 215.95A32.006 32.006 0 0 0 0 245.66v250.32c0 11.32 11.43 19.06 21.94 14.86L160 448V214.92c-8.84-15.98-16.07-31.54-21.25-46.42L20.12 215.95zM288 359.67c-14.07 0-27.38-6.18-36.51-16.96-19.66-23.2-40.57-49.62-59.49-76.72v182l192 64V266c-18.92 27.09-39.82 53.52-59.49 76.72-9.13 10.77-22.44 16.95-36.51 16.95zm266.06-198.51L416 224v288l139.88-55.95A31.996 31.996 0 0 0 576 426.34V176.02c0-11.32-11.43-19.06-21.94-14.86z"
+                    fill="currentColor"
+                    style={Object {}}
+                  />
+                </svg>
+              </a>
+              <p
+                className="txt-area"
+                title="directions map label"
+              >
+                Directions
+              </p>
+            </p>
+            <img
+              alt="cinema front entrance"
+              height="300px"
+              src="cinema_outside.jpeg"
+              style={
+                Object {
+                  "objectFit": "cover",
+                }
+              }
+              width="100%"
+            />
+          </div>
+        </div>
+        <div
+          className="p-2 col-lg-6 col-md-6 col-12"
+        >
+          <div
+            className="bg-t card-body"
+          >
+            <div
+              className=" colorScheme c-w padd-1 card-title h5"
+              title="location title"
+            >
+              Find us on Google Maps
+            </div>
+            <div
+              className="c-w min-h-70 padd-1 card-subtitle h6"
+              title="location address description"
+            >
+              We are located just near Tower Bridge (north side)
+            </div>
+            <p
+              className="padd-1 txt-area card-text"
+            >
+              <a
+                href="https://www.google.co.uk/maps/place/QA+Ltd./@51.507524,-0.0737885,19.79z/data=!3m1!5s0x487603555f190937:0x5ddb3b1b364ab175!4m8!1m2!2m1!1scar+park!3m4!1s0x487603544462f21d:0x60c3dd1ddc3bc0b7!8m2!3d51.5075167!4d-0.0738037"
+                title="directions map link"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="svg-inline--fa fa-map-marked-alt fa-w-18 fa-4x social-icon padd-1"
+                  color="#ff3333"
+                  data-icon="map-marked-alt"
+                  data-prefix="fas"
+                  focusable="false"
+                  role="img"
+                  style={Object {}}
+                  viewBox="0 0 576 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M288 0c-69.59 0-126 56.41-126 126 0 56.26 82.35 158.8 113.9 196.02 6.39 7.54 17.82 7.54 24.2 0C331.65 284.8 414 182.26 414 126 414 56.41 357.59 0 288 0zm0 168c-23.2 0-42-18.8-42-42s18.8-42 42-42 42 18.8 42 42-18.8 42-42 42zM20.12 215.95A32.006 32.006 0 0 0 0 245.66v250.32c0 11.32 11.43 19.06 21.94 14.86L160 448V214.92c-8.84-15.98-16.07-31.54-21.25-46.42L20.12 215.95zM288 359.67c-14.07 0-27.38-6.18-36.51-16.96-19.66-23.2-40.57-49.62-59.49-76.72v182l192 64V266c-18.92 27.09-39.82 53.52-59.49 76.72-9.13 10.77-22.44 16.95-36.51 16.95zm266.06-198.51L416 224v288l139.88-55.95A31.996 31.996 0 0 0 576 426.34V176.02c0-11.32-11.43-19.06-21.94-14.86z"
+                    fill="currentColor"
+                    style={Object {}}
+                  />
+                </svg>
+              </a>
+              <p
+                className="txt-area"
+                title="directions map label"
+              >
+                Navigate
+              </p>
+            </p>
+            <div
+              id="map"
+              style={
+                Object {
+                  "height": "300px",
+                  "width": "100%",
+                }
+              }
+            />
+          </div>
+        </div>
+        <div
+          className="p-2 col-lg-6 col-md-6 col-12"
+        >
+          <div
+            className="bg-t card-body"
+          >
+            <div
+              className=" colorScheme c-w padd-1 card-title h5"
+              title="location title"
+            >
+              Minories Car Park
+            </div>
+            <div
+              className="c-w min-h-70 padd-1 card-subtitle h6"
+              title="location address description"
+            >
+              1 Shorter St, London E1 8LP
+            </div>
+            <p
+              className="padd-1 txt-area card-text"
+            >
+              <a
+                href="https://www.google.co.uk/maps/place/Minories+Car+Park/@51.5103371,-0.0730342,16z/data=!4m9!1m2!2m1!1scar+park!3m5!1s0x0:0x398064c92140ae17!8m2!3d51.5103364!4d-0.0730151!15sCghjYXIgcGFya1oKIghjYXIgcGFya5IBC3BhcmtpbmdfbG90mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJSYWs0eWNYaEJSUkFC"
+                title="directions map link"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="svg-inline--fa fa-map-marked-alt fa-w-18 fa-4x social-icon padd-1"
+                  color="#ff3333"
+                  data-icon="map-marked-alt"
+                  data-prefix="fas"
+                  focusable="false"
+                  role="img"
+                  style={Object {}}
+                  viewBox="0 0 576 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M288 0c-69.59 0-126 56.41-126 126 0 56.26 82.35 158.8 113.9 196.02 6.39 7.54 17.82 7.54 24.2 0C331.65 284.8 414 182.26 414 126 414 56.41 357.59 0 288 0zm0 168c-23.2 0-42-18.8-42-42s18.8-42 42-42 42 18.8 42 42-18.8 42-42 42zM20.12 215.95A32.006 32.006 0 0 0 0 245.66v250.32c0 11.32 11.43 19.06 21.94 14.86L160 448V214.92c-8.84-15.98-16.07-31.54-21.25-46.42L20.12 215.95zM288 359.67c-14.07 0-27.38-6.18-36.51-16.96-19.66-23.2-40.57-49.62-59.49-76.72v182l192 64V266c-18.92 27.09-39.82 53.52-59.49 76.72-9.13 10.77-22.44 16.95-36.51 16.95zm266.06-198.51L416 224v288l139.88-55.95A31.996 31.996 0 0 0 576 426.34V176.02c0-11.32-11.43-19.06-21.94-14.86z"
+                    fill="currentColor"
+                    style={Object {}}
+                  />
+                </svg>
+              </a>
+              <p
+                className="txt-area"
+                title="directions map label"
+              >
+                Navigate
+              </p>
+            </p>
+            <img
+              alt="cinema front entrance"
+              height="300px"
+              src="parking_outside.jpg"
+              style={
+                Object {
+                  "objectFit": "cover",
+                }
+              }
+              width="100%"
+            />
+          </div>
+        </div>
+        <div
+          className="p-2 col-lg-6 col-md-6 col-12"
+        >
+          <div
+            className="bg-t card-body"
+          >
+            <div
+              className=" colorScheme c-w padd-1 card-title h5"
+              title="location title"
+            >
+              From closest undeground station
+            </div>
+            <div
+              className="c-w min-h-70 padd-1 card-subtitle h6"
+              title="location address description"
+            >
+              Tower Hill Underground Station
+            </div>
+            <p
+              className="padd-1 txt-area card-text"
+            >
+              <a
+                href="https://www.google.co.uk/maps/dir/Tower+Hill+Underground+Station/3rd+Floor,+QA+Ltd.,+International+House,+1+St+Katharine's+Way,+London+E1W+1UN/@51.5088432,-0.0767431,17.42z/data=!3m1!5s0x487603555f190937:0x5ddb3b1b364ab175!4m14!4m13!1m5!1m1!1s0x4876034c01181b61:0xe9a9202d18723f58!2m2!1d-0.0766609!2d51.5101178!1m5!1m1!1s0x487603544462f21d:0x60c3dd1ddc3bc0b7!2m2!1d-0.0738037!2d51.5075167!3e2"
+                title="directions map link"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="svg-inline--fa fa-map-marked-alt fa-w-18 fa-4x social-icon padd-1"
+                  color="#ff3333"
+                  data-icon="map-marked-alt"
+                  data-prefix="fas"
+                  focusable="false"
+                  role="img"
+                  style={Object {}}
+                  viewBox="0 0 576 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M288 0c-69.59 0-126 56.41-126 126 0 56.26 82.35 158.8 113.9 196.02 6.39 7.54 17.82 7.54 24.2 0C331.65 284.8 414 182.26 414 126 414 56.41 357.59 0 288 0zm0 168c-23.2 0-42-18.8-42-42s18.8-42 42-42 42 18.8 42 42-18.8 42-42 42zM20.12 215.95A32.006 32.006 0 0 0 0 245.66v250.32c0 11.32 11.43 19.06 21.94 14.86L160 448V214.92c-8.84-15.98-16.07-31.54-21.25-46.42L20.12 215.95zM288 359.67c-14.07 0-27.38-6.18-36.51-16.96-19.66-23.2-40.57-49.62-59.49-76.72v182l192 64V266c-18.92 27.09-39.82 53.52-59.49 76.72-9.13 10.77-22.44 16.95-36.51 16.95zm266.06-198.51L416 224v288l139.88-55.95A31.996 31.996 0 0 0 576 426.34V176.02c0-11.32-11.43-19.06-21.94-14.86z"
+                    fill="currentColor"
+                    style={Object {}}
+                  />
+                </svg>
+              </a>
+              <p
+                className="txt-area"
+                title="directions map label"
+              >
+                Walk from undeground
+              </p>
+            </p>
+            <img
+              alt="cinema front entrance"
+              height="300px"
+              src="directions_from_underground.jpg"
+              style={
+                Object {
+                  "objectFit": "cover",
+                }
+              }
+              width="100%"
+            />
+          </div>
+        </div>
+        <div
+          className="p-2 col-lg-6 col-md-6 col-12"
+        >
+          <div
+            className="bg-t card-body"
+          >
+            <div
+              className=" colorScheme c-w padd-1 card-title h5"
+              title="location title"
+            >
+              From closest bus station
+            </div>
+            <div
+              className="c-w min-h-70 padd-1 card-subtitle h6"
+              title="location address description"
+            >
+              St Katharine Dock (Stop TS)
+            </div>
+            <p
+              className="padd-1 txt-area card-text"
+            >
+              <a
+                href="https://www.google.co.uk/maps/dir/St+Katharine+Dock+(Stop+TS),+London+E1W+1BF/QA+Ltd/@51.5082367,-0.0737202,18.35z/data=!3m1!5s0x487603555f190937:0x5ddb3b1b364ab175!4m14!4m13!1m5!1m1!1s0x48760349ea7a73a9:0x7ced1ed64f02620!2m2!1d-0.0717084!2d51.5084763!1m5!1m1!1s0x487603544462f21d:0x60c3dd1ddc3bc0b7!2m2!1d-0.0738037!2d51.5075167!3e2!5m1!1e2"
+                title="directions map link"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="svg-inline--fa fa-map-marked-alt fa-w-18 fa-4x social-icon padd-1"
+                  color="#ff3333"
+                  data-icon="map-marked-alt"
+                  data-prefix="fas"
+                  focusable="false"
+                  role="img"
+                  style={Object {}}
+                  viewBox="0 0 576 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M288 0c-69.59 0-126 56.41-126 126 0 56.26 82.35 158.8 113.9 196.02 6.39 7.54 17.82 7.54 24.2 0C331.65 284.8 414 182.26 414 126 414 56.41 357.59 0 288 0zm0 168c-23.2 0-42-18.8-42-42s18.8-42 42-42 42 18.8 42 42-18.8 42-42 42zM20.12 215.95A32.006 32.006 0 0 0 0 245.66v250.32c0 11.32 11.43 19.06 21.94 14.86L160 448V214.92c-8.84-15.98-16.07-31.54-21.25-46.42L20.12 215.95zM288 359.67c-14.07 0-27.38-6.18-36.51-16.96-19.66-23.2-40.57-49.62-59.49-76.72v182l192 64V266c-18.92 27.09-39.82 53.52-59.49 76.72-9.13 10.77-22.44 16.95-36.51 16.95zm266.06-198.51L416 224v288l139.88-55.95A31.996 31.996 0 0 0 576 426.34V176.02c0-11.32-11.43-19.06-21.94-14.86z"
+                    fill="currentColor"
+                    style={Object {}}
+                  />
+                </svg>
+              </a>
+              <p
+                className="txt-area"
+                title="directions map label"
+              >
+                Walk from bus station
+              </p>
+            </p>
+            <img
+              alt="cinema front entrance"
+              height="300px"
+              src="directions_from_bus.jpg"
+              style={
+                Object {
+                  "objectFit": "cover",
+                }
+              }
+              width="100%"
+            />
+          </div>
+        </div>
+        ;
+      </div>
+    </div>
+  </div>
+</div>
+`;
